@@ -1,0 +1,6 @@
+vdopiasample;MID;INGESTOR;ETL;vdopia-etl=7
+vdopiasample;MID;JOINER;ETL;vdopia-etl=1
+vdopiasample;HIGH;WRANGLER;ETL;vdopia-etl=4
+vdopiasample-bid;LOW;WRANGLER;ETL;vdopia-etl=5
+vdopiasample;LOW;VALIDATOR;ETL;vdopia-etl=5
+vdopiasample-bid;HIGH;VALIDATOR;ETL;vdopia-etl=3
